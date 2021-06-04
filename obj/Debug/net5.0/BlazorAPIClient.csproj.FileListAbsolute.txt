@@ -632,3 +632,5 @@ F:\work\BlazorAPIClient\obj\Debug\net5.0\ref\BlazorAPIClient.dll
 F:\work\BlazorAPIClient\obj\Debug\net5.0\BlazorAPIClient.pdb
 F:\work\BlazorAPIClient\obj\Debug\net5.0\RazorDeclaration\Pages\Base64Converter.razor.g.cs
 F:\work\BlazorAPIClient\obj\Debug\net5.0\Razor\Pages\Base64Converter.razor.g.cs
+F:\work\BlazorAPIClient\obj\Debug\net5.0\RazorDeclaration\Pages\FetchPosts.razor.g.cs
+F:\work\BlazorAPIClient\obj\Debug\net5.0\Razor\Pages\FetchPosts.razor.g.cs
