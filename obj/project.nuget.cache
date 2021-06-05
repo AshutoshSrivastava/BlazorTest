@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "d0G27pDuyMgMdkqxy5RObKkbEo4omS/4XhpoCfGeDV1YwsRzBwOlUwGfPInzsr4MU9tkwF72g934Q+dxxGlKxg==",
+  "dgSpecHash": "BQUyMcyOg93qUbMFC+yIfYFElEUuAy0TJp5xAaHr3fKBHJ0qmC/i2upk4WIEqgg8oLwU9urcXK7M4HjAMNShOQ==",
   "success": true,
   "projectFilePath": "F:\\work\\BlazorAPIClient\\BlazorAPIClient.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\Ashu\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Ashu\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
     "C:\\Users\\Ashu\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ashu\\.nuget\\packages\\microsoft.extensions.http\\5.0.0\\microsoft.extensions.http.5.0.0.nupkg.sha512",
     "C:\\Users\\Ashu\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\Ashu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Ashu\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",

@@ -1,6 +1,8 @@
 {
   "cacheBootResources": true,
-  "config": [ ],
+  "config": [
+    "appsettings.Development.json"
+  ],
   "debugBuild": true,
   "entryAssembly": "BlazorAPIClient",
   "icuDataMode": 0,
@@ -23,6 +25,7 @@
       "Microsoft.Extensions.FileProviders.Abstractions.dll": "sha256-aUKLFqSgB\/hwZc41dLVKoRSKRghShpfQPVMhoRzpz5M=",
       "Microsoft.Extensions.FileProviders.Physical.dll": "sha256-Cvhy7j568oPzBQKhakMhNkDr5tQBxE0LaY1wukd0Ll0=",
       "Microsoft.Extensions.FileSystemGlobbing.dll": "sha256-xrpMDo35bgwz\/m\/kwUvL9SAOxyEgSSwO57RiuhILHgI=",
+      "Microsoft.Extensions.Http.dll": "sha256-yUMvQwAOesiz+yHxElu\/ObK7gQIqcSR7vktOISpntaA=",
       "Microsoft.Extensions.Logging.dll": "sha256-VlsKv5zXgdK0MrYHXr9XlUCXwuwNI7AUI\/C1PEFXcz4=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-9UNtwDMFW86VtnTtJFk9xcc1hCnXFGXccFv3SkbgYy0=",
       "Microsoft.Extensions.Options.dll": "sha256-YfK6Zl0RmlJUqBJD7Khy7u4HEW2DRne0VSiqA6Yqs0U=",
@@ -195,11 +198,11 @@
       "mscorlib.dll": "sha256-Fi+LybwHL\/VGD\/09OxxtYlT6exn9xVU+LdojZ9juR2c=",
       "netstandard.dll": "sha256-P8xX0ad1hKyWWbBxiXl3cYokFlDiuXwp3pqoYatH0kk=",
       "System.Private.CoreLib.dll": "sha256-2km83sNUTrumGJYdDzsN8RnJqv00vKWLCCh0UGajTB4=",
-      "BlazorAPIClient.dll": "sha256-hG\/Kw8tS68gPk5Idx9DJGqBlhTyKRsdV\/\/yUlyGEcBA="
+      "BlazorAPIClient.dll": "sha256-ePLWy1zJr3lmxTsVJ\/dEMZqiL8pNvWLxAoHKh8vlsKs="
     },
     "lazyAssembly": null,
     "pdb": {
-      "BlazorAPIClient.pdb": "sha256-0aOYu3mhFf5LfbBZeAXt1+gGL\/\/gy0dDfmO385bGtWc="
+      "BlazorAPIClient.pdb": "sha256-Eiz82JZAd66Sn9L4Y3LIGJ0DeGe4L6vEPF4yzPld2oQ="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-ibxaSjW7s3aLVssChknhzCpgMTHGu4D48Q9OLP3dfe8=",

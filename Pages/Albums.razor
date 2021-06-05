@@ -1,0 +1,32 @@
+@page "/albums"
+
+<h1>Consume - Rest Api</h1>
+
+<p>This Data(Albums) Fetched from https://jsonplaceholder.typicode.com </p>
+<i>https://jsonplaceholder.typicode.com/albums</i>
+
+@if (albums == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var album in albums)
+            {
+                <tr>
+                    <td>@album.Id</td>
+                    <td>@album.Title</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+

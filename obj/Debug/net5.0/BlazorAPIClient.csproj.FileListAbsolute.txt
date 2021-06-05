@@ -634,3 +634,8 @@ F:\work\BlazorAPIClient\obj\Debug\net5.0\RazorDeclaration\Pages\Base64Converter.
 F:\work\BlazorAPIClient\obj\Debug\net5.0\Razor\Pages\Base64Converter.razor.g.cs
 F:\work\BlazorAPIClient\obj\Debug\net5.0\RazorDeclaration\Pages\FetchPosts.razor.g.cs
 F:\work\BlazorAPIClient\obj\Debug\net5.0\Razor\Pages\FetchPosts.razor.g.cs
+F:\work\BlazorAPIClient\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
+F:\work\BlazorAPIClient\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll
+F:\work\BlazorAPIClient\obj\Debug\net5.0\RazorDeclaration\Pages\Albums.razor.g.cs
+F:\work\BlazorAPIClient\obj\Debug\net5.0\Razor\Pages\Albums.razor.g.cs
+F:\work\BlazorAPIClient\obj\Debug\net5.0\build-gz\BKL9VtDu.gz
