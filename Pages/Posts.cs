@@ -1,17 +1,12 @@
 using System.Threading.Tasks;
-using BlazorAPIClient.Dtos;
-using System.Net.Http.Json;
-using System.Net.Http;
-using Microsoft.AspNetCore.Components;
 using BlazorAPIClient.DataServices;
+using BlazorAPIClient.Dtos;
+using Microsoft.AspNetCore.Components;
 
 namespace BlazorAPIClient.Pages
 {
-    public partial class FetchPosts
+    public partial class Posts
     {
-        [Inject]
-        private HttpClient Http{get;set;}
-        
         [Inject]
         IPostDataService PostDataService {get;set;}
 

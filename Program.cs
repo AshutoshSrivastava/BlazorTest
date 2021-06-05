@@ -23,11 +23,17 @@ namespace BlazorAPIClient
 
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.Configuration["rest_api_base_url"]) });
             
+            // uses REST Api
             builder.Services.AddHttpClient<IMyDataService,RestAlbumDataService>
             (
                 x=>x.BaseAddress = new Uri(builder.Configuration["rest_api_base_url"])
             );
-            // https://graphqlzero.almansi.me/api
+            
+            // uses GraphQL Api
+            builder.Services.AddHttpClient<IPostDataService,GraphQLPostDataService>
+            (
+                x=>x.BaseAddress = new Uri(builder.Configuration["graph_api_base_url"])
+            );
 
             await builder.Build().RunAsync();
         }

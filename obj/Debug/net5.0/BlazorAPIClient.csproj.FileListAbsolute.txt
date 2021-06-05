@@ -639,3 +639,5 @@ F:\work\BlazorAPIClient\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions
 F:\work\BlazorAPIClient\obj\Debug\net5.0\RazorDeclaration\Pages\Albums.razor.g.cs
 F:\work\BlazorAPIClient\obj\Debug\net5.0\Razor\Pages\Albums.razor.g.cs
 F:\work\BlazorAPIClient\obj\Debug\net5.0\build-gz\BKL9VtDu.gz
+F:\work\BlazorAPIClient\obj\Debug\net5.0\RazorDeclaration\Pages\Posts.razor.g.cs
+F:\work\BlazorAPIClient\obj\Debug\net5.0\Razor\Pages\Posts.razor.g.cs
